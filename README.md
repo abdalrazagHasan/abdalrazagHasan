@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdalrazag Al-Shrufat.
 - 👀 I’m interested in Java technologies and software development.
-- 🌱 I’m currently learning Spring and Android.
+- 🌱 I’m currently learning Spring and Java Staff.
 - 💞️ I’m looking to collaborate on Java projects.
 
 <!---
